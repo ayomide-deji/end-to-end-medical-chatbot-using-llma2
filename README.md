@@ -1,4 +1,4 @@
-# end-to-end-medical-chatbot-using-llma2
+# Leveraging Advanced Machine Learning Techniques for Automated Pulmonary Disease Classification from X-ray Images in Healthcare
 
 ## Steps to run the project
 
